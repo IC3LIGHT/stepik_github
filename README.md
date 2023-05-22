@@ -1,1 +1,1 @@
-# Stepik git 
+# Stepik git
